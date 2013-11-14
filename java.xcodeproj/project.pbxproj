@@ -6,10 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		F18269FF16949E94000CE5FC /* pruebaC.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = pruebaC.c; sourceTree = "<group>"; };
+		F1826A0016949F03000CE5FC /* pruevaJAVA.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = pruevaJAVA.java; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		F18269F616949E6E000CE5FC = {
 			isa = PBXGroup;
 			children = (
+				F18269FF16949E94000CE5FC /* pruebaC.c */,
+				F1826A0016949F03000CE5FC /* pruevaJAVA.java */,
 			);
 			sourceTree = "<group>";
 		};
